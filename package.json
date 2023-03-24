@@ -19,8 +19,11 @@
     "url": "https://github.com/maruware/ts-module-practice/issues"
   },
   "homepage": "https://github.com/maruware/ts-module-practice#readme",
-  "dependencies": {},
+  "dependencies": {
+    "fastify": "^4.15.0"
+  },
   "devDependencies": {
+    "@types/node": "^18.15.7",
     "esbuild": "^0.17.13",
     "typescript": "^5.0.2"
   }
